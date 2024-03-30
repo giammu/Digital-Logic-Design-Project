@@ -17,5 +17,5 @@ Final Grade: 30 cum laude/30
 
 ### Useful Files
 
-- [Example project](Useful%20files\Example%20Project)
-- [Getting started with Vivado](Useful%20files\First-Start-with-Vivado.pdf)
+- [Example project](Useful%20files/Example%20Project)
+- [Getting started with Vivado](Useful%20files/First-Start-with-Vivado.pdf)
